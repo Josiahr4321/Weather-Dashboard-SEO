@@ -11,7 +11,7 @@ searchForm.addEventListener('submit', (e) => {
   });
   
   function getWeather(city) {
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`)
+    fetch(``)
       .then((response) => response.json())
       .then((data) => {
         const temperature = Math.round(data.main.temp - 273.15);
