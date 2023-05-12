@@ -12,3 +12,7 @@ the data we are grabbing the information from for the weather is a third party a
 
 link
 
+
+
+
+![image](https://github.com/Josiahr4321/Weather-Dashboard-SEO/assets/125624166/40a010b8-8ca2-468b-9ff6-ffa2bef08dac)
